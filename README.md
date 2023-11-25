@@ -28,5 +28,5 @@ Step 2 - Import of data to the created Countries and Languages tables from the c
 
 
 
-Step 3 - Inner Join SQL command to join Countries table on Languages table using Code 
+Step 3 - Inner Join SQL command to join Countries table on Languages table using Code (Code column is being used as a Primary Key column in both Countries and Languages tables). 
 ![Inner Join Countries on Languages](https://github.com/VnumpyZ806/PostgreSQL-Library/assets/93555279/607af5dc-4c3a-40cf-a849-6cf686bb8bbe)
